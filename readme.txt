@@ -5,3 +5,4 @@
 4.各种Util类
 5.创建测试数据库，并记录备份insert语句，保证单元测试有数据可用
 6.Properties文件读取
+7.每个请求都要一个对应的Controller,如果请求多了，怎么办？整合到一个controller
